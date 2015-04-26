@@ -80,7 +80,9 @@ activity_variables
   Standard Deviation of Body Gyroscope Mag by Fourier
   Mean of Body Gyroscope Jerk by Fourier
   Standard Deviation of Body Gyroscope Jerk by Fourier
-    These items represent the different measurement activities recorded by the wearable computer for each activity for each subject
+    Mag stands for Magnitude
+    Fourier stands for Fast Fourier Transform.
+    These items represent the different measurement activities recorded by the wearable computer for each activity for each      subject
 
 mean
   This is the average meansurement of for each activitity_variable for each Activity for each Subject that was recorded by the wearable computer
